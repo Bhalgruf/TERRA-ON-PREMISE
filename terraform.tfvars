@@ -1,1 +1,13 @@
 Version = "0.1.0"
+NameServer="WindowsServer"
+versionGen = 2
+ProcessorNB = 2
+StockageVM = "U:/Terraform/Windows/Hyper-V"
+state = "Running"
+path-ISO= "U:/Terraform/Windows/ISO/Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh"
+POOL-Exp="Exploitation"
+path-disk="U:/Terraform/Windows/Hyper-V/AD/Virtual Hard Disks/Test.vhdx"
+ADusername="test"
+ADpassword="tetedechat"
+domaine="HUGO.COM"
+source_disk="U:/Terraform/Windows/Hyper-V/AD/Virtual Hard Disks"

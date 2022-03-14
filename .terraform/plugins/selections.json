@@ -1,0 +1,10 @@
+{
+  "registry.terraform.io/hashicorp/ad": {
+    "hash": "h1:ajn0u4SY8TFysRKhphdWnM1ekfssjOOrzGch7SskLjc=",
+    "version": "0.1.0"
+  },
+  "registry.terraform.io/taliesins/hyperv": {
+    "hash": "h1:jFCeJRHdDVo44EtaRjrkmzNphG7RLSxFJXwGgekGgEM=",
+    "version": "1.0.3"
+  }
+}
